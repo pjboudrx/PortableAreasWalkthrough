@@ -1,0 +1,1 @@
+An updated walkthrough of creating and consuming a portable MVC2 Area.  To a forthcoming blog post.
