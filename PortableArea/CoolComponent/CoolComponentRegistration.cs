@@ -16,7 +16,7 @@ namespace PortableArea.CoolComponent
 
 			context.MapRoute(
 				"CoolComponent_Default", 
-				"coolcomponent/{controller}/{action}/{id}",
+				AreaName + "/{controller}/{action}/{id}",
 				new {controller = "HelloWorld", action = "Index", id = UrlParameter.Optional });
 		}
 	}
