@@ -50,6 +50,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="CoolComponent\Content\Images\" />
+    <Folder Include="CoolComponent\Content\Scripts\" />
+    <Folder Include="CoolComponent\Content\Styles\" />
     <Folder Include="CoolComponent\Models\" />
   </ItemGroup>
   <ItemGroup>
